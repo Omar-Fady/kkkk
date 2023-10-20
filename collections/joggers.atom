@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopdeckedout.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopdeckedout.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopdeckedout.com/collections/joggers.atom"/>
+  <title>Decked Out </title>
+  <updated>2023-08-07T02:22:12+03:00</updated>
+  <author>
+    <name>Decked Out </name>
+  </author>
+  <entry>
+    <id>https://shopdeckedout.com/products/7284397473981</id>
+    <published>2023-08-07T02:22:12+03:00</published>
+    <updated>2023-08-07T02:22:12+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/copy-of-lightning-joggers"/>
+    <title>Thunder Joggers in grey</title>
+    <s:type>Joggers</s:type>
+    <s:vendor>Decked Out</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/products/ScreenShot2022-07-11at9.49.04PM.png?v=1657568994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out<br>
+        <strong>Type: </strong>Joggers<br>
+        <strong>Price: </strong>
+            850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The waterproof Lightning joggers in light grey <br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Medium </p>
+<p data-mce-fragment="1">Model's height: 183cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size Small </p>
+<p data-mce-fragment="1">Model's height: 167cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Made of waterproof fabric <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284397473981</id>
+      <title>S</title>
+      <s:price currency="EGP">850.00</s:price>
+      <s:sku>SM21-JOG-LG-S-013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284397473981</id>
+      <title>M</title>
+      <s:price currency="EGP">850.00</s:price>
+      <s:sku>SM21-JOG-LG-M-013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284397473981</id>
+      <title>L</title>
+      <s:price currency="EGP">850.00</s:price>
+      <s:sku>SM21-JOG-LG-L-013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7284396589245</id>
+    <published>2023-08-07T02:22:12+03:00</published>
+    <updated>2023-08-07T02:22:12+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/thunder-joggera"/>
+    <title>Thunder Joggers in black</title>
+    <s:type>Joggers</s:type>
+    <s:vendor>Decked Out </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/4_aa57f46e-7877-44e0-9717-3c5eff3855a5.png?v=1691483475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out <br>
+        <strong>Type: </strong>Joggers<br>
+        <strong>Price: </strong>
+            850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The waterproof Lightning joggers in black<br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Medium </p>
+<p data-mce-fragment="1">Model's height: 183cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size Small </p>
+<p data-mce-fragment="1">Model's height: 167cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Made of waterproof fabric <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284396589245</id>
+      <title>S</title>
+      <s:price currency="EGP">850.00</s:price>
+      <s:sku>SM21-JOG-BLK-S-012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284396589245</id>
+      <title>M</title>
+      <s:price currency="EGP">850.00</s:price>
+      <s:sku>SM21-JOG-BLK-M-012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284396589245</id>
+      <title>L</title>
+      <s:price currency="EGP">850.00</s:price>
+      <s:sku>SM21-JOG-BLK-L-012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

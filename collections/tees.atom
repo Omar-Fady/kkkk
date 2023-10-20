@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopdeckedout.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopdeckedout.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopdeckedout.com/collections/tees.atom"/>
+  <title>Decked Out </title>
+  <updated>2023-08-08T17:41:56+03:00</updated>
+  <author>
+    <name>Decked Out </name>
+  </author>
+  <entry>
+    <id>https://shopdeckedout.com/products/7497902063805</id>
+    <published>2023-08-08T17:41:56+03:00</published>
+    <updated>2023-08-08T17:41:56+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/light-grey-logo"/>
+    <title>never too basic in light grey</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Decked Out </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/32.png?v=1691361868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out <br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The never too basic tee in light grey <br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Large</p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size Medium<br></p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497902063805</id>
+      <title>XS</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-LGL-XS-022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497902063805</id>
+      <title>S</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-LGL-S-022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497902063805</id>
+      <title>M</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-LGL-M-022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497902063805</id>
+      <title>L</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-LGL-L-022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7497901965501</id>
+    <published>2023-08-08T17:41:55+03:00</published>
+    <updated>2023-08-08T17:41:55+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/dark-grey-logo"/>
+    <title>never too basic in dark grey</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Decked Out </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/25.png?v=1691361918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out <br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The King Bear tee in dark grey <br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Large<br></p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size Medium<br></p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497901965501</id>
+      <title>XS</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-DGL-XS-023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497901965501</id>
+      <title>S</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-DGL-S-023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497901965501</id>
+      <title>M</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-DGL-M-023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497901965501</id>
+      <title>L</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-DGL-L-023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7497899737277</id>
+    <published>2023-08-08T17:41:55+03:00</published>
+    <updated>2023-08-08T17:41:55+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/hi-ken-tee"/>
+    <title>Hi Ken Tee</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Decked Out </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/17.png?v=1691360238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out <br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Hi Ken tee in green<br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size large</p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size medium<br></p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497899737277</id>
+      <title>XS</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-GRL-XS-021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497899737277</id>
+      <title>S</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-GRL-S-021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497899737277</id>
+      <title>M</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-GRL-M-021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497899737277</id>
+      <title>L</title>
+      <s:price currency="EGP">650.00</s:price>
+      <s:sku>SM22-TEE-GRL-L-021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7497895149757</id>
+    <published>2023-08-08T17:41:54+03:00</published>
+    <updated>2023-08-08T17:41:54+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/biege-tee"/>
+    <title>Side Eye Tee</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Decked Out </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/30.png?v=1691362644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out <br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Side Eye tee in beige<br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Large <br></p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size Medium<br></p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497895149757</id>
+      <title>XS</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-BEG-XS-020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497895149757</id>
+      <title>S</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-BEG-S-020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497895149757</id>
+      <title>M</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-BEG-M-020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497895149757</id>
+      <title>L</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-BEG-L-020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7497893216445</id>
+    <published>2023-08-08T17:41:53+03:00</published>
+    <updated>2023-08-08T17:41:53+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/thunder-tee"/>
+    <title>Thunder Tee</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Decked Out </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/23adjusted.png?v=1691430918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out <br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Thunder tee in black <br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size large <br></p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size medium</p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497893216445</id>
+      <title>XS</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-BLKN-XS-018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497893216445</id>
+      <title>S</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-BLKN-S-018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497893216445</id>
+      <title>M</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-BLKN-M-018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497893216445</id>
+      <title>L</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-BLKN-L-018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7497892855997</id>
+    <published>2023-08-08T17:41:53+03:00</published>
+    <updated>2023-08-08T17:41:53+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/destructive-tee"/>
+    <title>Destructive Tee</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Decked Out </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/37adjusted.png?v=1691430736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out <br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Destructive tee in white<br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size large <br></p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size medium<br></p>
+<p data-mce-fragment="1">Model's height: 178cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497892855997</id>
+      <title>XS</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-WT-XS-019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497892855997</id>
+      <title>S</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-WT-S-019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497892855997</id>
+      <title>M</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-WT-M-019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497892855997</id>
+      <title>L</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM22-TEE-WT-L-019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7284392526013</id>
+    <published>2023-08-07T02:22:12+03:00</published>
+    <updated>2023-08-07T02:22:12+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/no-bs-tee"/>
+    <title>No BS Tee</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Decked Out</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/20_a2a2e016-b339-4412-9475-7d5291f14f52.png?v=1691483218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out<br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The No BS tee in green <br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Large <br></p>
+<p data-mce-fragment="1">Model's height: 183cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size Small </p>
+<p data-mce-fragment="1">Model's height: 167cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284392526013</id>
+      <title>S</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-GR-S-016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284392526013</id>
+      <title>M</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-GR-M-016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284392526013</id>
+      <title>L</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-GR-L-016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284392526013</id>
+      <title>XS</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-GR-XS-016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7284392296637</id>
+    <published>2023-08-07T02:22:11+03:00</published>
+    <updated>2023-08-07T02:22:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/extra-money-tee"/>
+    <title>Extra Money Tee</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Decked Out</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/17_e434e4ce-4ad7-48de-915f-2f831249275b.png?v=1691482878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out<br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Extra Money Tee in black <br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Medium </p>
+<p data-mce-fragment="1">Model's height: 183cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size Small </p>
+<p data-mce-fragment="1">Model's height: 167cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284392296637</id>
+      <title>S</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-BLKO-S-017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284392296637</id>
+      <title>M</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-BLKO-M-017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284392296637</id>
+      <title>L</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-BLKO-L-017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284392296637</id>
+      <title>XS</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-BLKO-XS-017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7284391411901</id>
+    <published>2023-08-07T02:22:11+03:00</published>
+    <updated>2023-08-07T02:22:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/king-bear-tee"/>
+    <title>King Bear Tee</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Decked Out</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/18_cd520f67-0717-4a7a-9a34-99fcbe90e287.png?v=1691482707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out<br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The King Bear tee in light grey <br></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Medium </p>
+<p data-mce-fragment="1">Model's height: 183cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size Small </p>
+<p data-mce-fragment="1">Model's height: 167cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284391411901</id>
+      <title>S</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-LG-S-015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284391411901</id>
+      <title>M</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-LG-M-015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284391411901</id>
+      <title>L</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-LG-L-015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7284391411901</id>
+      <title>XS</title>
+      <s:price currency="EGP">700.00</s:price>
+      <s:sku>SM21-TEE-LG-XS-015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

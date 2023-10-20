@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopdeckedout.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopdeckedout.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopdeckedout.com/collections/hoodies.atom"/>
+  <title>Decked Out </title>
+  <updated>2023-10-14T14:42:13+03:00</updated>
+  <author>
+    <name>Decked Out </name>
+  </author>
+  <entry>
+    <id>https://shopdeckedout.com/products/7417456394429</id>
+    <published>2023-10-14T14:42:13+03:00</published>
+    <updated>2023-10-14T14:42:13+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/rebel-oversized-hoodie"/>
+    <title>Rebel Oversized Hoodie</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>Decked Out </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/products/image2copy_78c3f3c7-339a-4c6a-a9a5-53cdc16e9d54.png?v=1672158451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out <br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The <em data-mce-fragment="1">Rebel</em> oversized hoodie in light grey <br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Medium </p>
+<p data-mce-fragment="1">Model's height: 183cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size Small </p>
+<p data-mce-fragment="1">Model's height: 167cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7417456394429</id>
+      <title>S</title>
+      <s:price currency="EGP">900.00</s:price>
+      <s:sku>WT22-HOD-LG-S-007</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7417456394429</id>
+      <title>M</title>
+      <s:price currency="EGP">900.00</s:price>
+      <s:sku>WT22-HOD-LG-M-007</s:sku>
+      <s:grams>790</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7417456394429</id>
+      <title>L</title>
+      <s:price currency="EGP">900.00</s:price>
+      <s:sku>WT22-HOD-LG-L-007</s:sku>
+      <s:grams>835</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7445377155261</id>
+    <published>2023-10-11T15:40:24+03:00</published>
+    <updated>2023-10-11T15:40:24+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/thunder-hoodie"/>
+    <title>Thunder Oversized Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>Decked Out </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/products/whitehoodiepngfront.png?v=1677589382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The unisex <em data-mce-fragment="1">Thunder </em>oversized hoodie in off-white</p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size Small </p>
+<p data-mce-fragment="1">Model's height: 167cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7445377155261</id>
+      <title>S</title>
+      <s:price currency="EGP">900.00</s:price>
+      <s:sku>WT22-HOD-WTN-S-011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7445377155261</id>
+      <title>M</title>
+      <s:price currency="EGP">900.00</s:price>
+      <s:sku>WT22-HOD-WTN-M-011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7445377155261</id>
+      <title>L</title>
+      <s:price currency="EGP">900.00</s:price>
+      <s:sku>WT22-HOD-WTN-L-011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7104398065853</id>
+    <published>2023-10-11T15:40:24+03:00</published>
+    <updated>2023-10-11T15:40:24+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/mood-oversized-hoodie"/>
+    <title>Mood Oversized Hoodie</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>Decked Out</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/products/image6_eaebea70-ae46-4b6b-a1e6-11845817e1cd.png?v=1672158263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">The <em data-mce-fragment="1">mood</em> oversized hoodie in dark grey </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Medium </p>
+<p data-mce-fragment="1">Model's height: 183cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Female model wears: Size Small </p>
+<p data-mce-fragment="1">Model's height: 167cm </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Oversized fit – shop accordingly </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of 100% cotton </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7104398065853</id>
+      <title>S</title>
+      <s:price currency="EGP">900.00</s:price>
+      <s:sku>WT21-HOD-DG-S-001</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7104398065853</id>
+      <title>M</title>
+      <s:price currency="EGP">900.00</s:price>
+      <s:sku>WT21-HOD-DG-M-001</s:sku>
+      <s:grams>790</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7104398065853</id>
+      <title>L</title>
+      <s:price currency="EGP">900.00</s:price>
+      <s:sku>WT21-HOD-DG-L-001</s:sku>
+      <s:grams>835</s:grams>
+    </s:variant>
+  </entry>
+</feed>

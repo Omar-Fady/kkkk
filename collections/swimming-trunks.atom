@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopdeckedout.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopdeckedout.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopdeckedout.com/collections/swimming-trunks.atom"/>
+  <title>Decked Out </title>
+  <updated>2023-08-08T17:41:57+03:00</updated>
+  <author>
+    <name>Decked Out </name>
+  </author>
+  <entry>
+    <id>https://shopdeckedout.com/products/7498319462589</id>
+    <published>2023-08-08T17:41:57+03:00</published>
+    <updated>2023-08-08T17:41:57+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/unfair-place-swimming-trunks"/>
+    <title>Unfair Place Swimming Trunks</title>
+    <s:type></s:type>
+    <s:vendor>Decked Out </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/9.png?v=1691363262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Unfair place swimming trunks in black <br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Small<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Model's height: 182cm <br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of microfiber</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7498319462589</id>
+      <title>S</title>
+      <s:price currency="EGP">750.00</s:price>
+      <s:sku>SM22-SWM-BLK-S-024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7498319462589</id>
+      <title>M</title>
+      <s:price currency="EGP">750.00</s:price>
+      <s:sku>SM22-SWM-BLK-M-024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7498319462589</id>
+      <title>L</title>
+      <s:price currency="EGP">750.00</s:price>
+      <s:sku>SM22-SWM-BLK-L-024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7498319462589</id>
+      <title>XL</title>
+      <s:price currency="EGP">750.00</s:price>
+      <s:sku>SM22-SWM-BLK-XL-024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopdeckedout.com/products/7497904783549</id>
+    <published>2023-08-08T17:41:57+03:00</published>
+    <updated>2023-08-08T17:41:57+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopdeckedout.com/products/hi-ken-swimming-trunks"/>
+    <title>Hi Ken Swimming Trunks</title>
+    <s:type></s:type>
+    <s:vendor>Decked Out </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/4612/9085/files/12.png?v=1691361101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Decked Out <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Hi ken swimming trunks in green<br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1">Male model wears: Size Small<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Model's height: 182cm <br data-mce-fragment="1"></p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LOOKING AFTER ME  </strong></p>
+<p data-mce-fragment="1">Machine wash according to instructions on price tag </p>
+<hr data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ABOUT ME </strong></p>
+<p data-mce-fragment="1">Fabric made of microfiber</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497904783549</id>
+      <title>S</title>
+      <s:price currency="EGP">750.00</s:price>
+      <s:sku>SM22-SWM-GR-S-026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497904783549</id>
+      <title>M</title>
+      <s:price currency="EGP">750.00</s:price>
+      <s:sku>SM22-SWM-GR-M-026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497904783549</id>
+      <title>L</title>
+      <s:price currency="EGP">750.00</s:price>
+      <s:sku>SM22-SWM-GR-L-026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopdeckedout.com/products/7497904783549</id>
+      <title>XL</title>
+      <s:price currency="EGP">750.00</s:price>
+      <s:sku>SM22-SWM-GR-XL-026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
